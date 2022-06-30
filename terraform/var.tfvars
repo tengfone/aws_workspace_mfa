@@ -1,0 +1,6 @@
+aws-account = "1234567890"
+private-vpc = "vpc-xxx"
+cidr-range  = "100.1.1.0"
+subnet-a    = "xxx"
+subnet-b    = "xxx"
+subnet-c    = "xxx"
