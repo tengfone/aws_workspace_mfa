@@ -160,7 +160,7 @@ ipaddr = 127.0.0.1
 secret = password
 netmask = 32
 }
-# AD Connector, insert AD DNS here
+# AD Connector, insert AD VPC CIDR Range
 client microsoftad{
 ipaddr  = 100.1.1.0
 netmask = 24
